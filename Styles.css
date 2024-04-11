@@ -1,0 +1,9 @@
+.ImageWithCaption {
+  float: right;
+  display: inline;
+  text-align: center;
+}
+
+.tinyText {
+    font-size: 0.5em;
+}
